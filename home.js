@@ -4,7 +4,8 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function HomeScreen() {
   return (
     <View style={styles.container}>
-      <Text>Text from home screen</Text>
+      <Text>I have changed the home screen text</Text>
+      <Text>I have changed the home screen text</Text>
       <StatusBar style="auto" />
     </View>
   );
